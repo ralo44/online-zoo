@@ -199,7 +199,7 @@ body {
   margin-left: 94px;
 }
 
-/* Panda diet block */
+/* Panda pickfeed */
 
 .pickfeed-payment-diet {
   max-width: 875px;
@@ -252,8 +252,13 @@ body {
 .panda-logo img {
   padding-bottom: 25px;
 }
-
-/* Interactive bar */
+.amount {
+  margin-left: 94px;
+  width: 975px;
+  align-items: center;
+  padding: 1px;
+}
+/* pricebar */
 
 .pickfeed-payment-bar {
   width: 975px;
